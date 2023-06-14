@@ -1,0 +1,2 @@
+33aea8-5dfd46-393679-34135a-64f59e - prod api token
+KSW5D4QukWZwgImh prod secret key
